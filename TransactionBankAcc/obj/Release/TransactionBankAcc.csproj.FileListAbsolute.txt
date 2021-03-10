@@ -1,0 +1,9 @@
+C:\Users\Dell\Desktop\work\TransactionBankAcc\TransactionBankAcc\bin\Release\TransactionBankAcc.exe.config
+C:\Users\Dell\Desktop\work\TransactionBankAcc\TransactionBankAcc\bin\Release\TransactionBankAcc.exe
+C:\Users\Dell\Desktop\work\TransactionBankAcc\TransactionBankAcc\bin\Release\TransactionBankAcc.pdb
+C:\Users\Dell\Desktop\work\TransactionBankAcc\TransactionBankAcc\obj\Release\TransactionBankAcc.Form1.resources
+C:\Users\Dell\Desktop\work\TransactionBankAcc\TransactionBankAcc\obj\Release\TransactionBankAcc.Properties.Resources.resources
+C:\Users\Dell\Desktop\work\TransactionBankAcc\TransactionBankAcc\obj\Release\TransactionBankAcc.csproj.GenerateResource.cache
+C:\Users\Dell\Desktop\work\TransactionBankAcc\TransactionBankAcc\obj\Release\TransactionBankAcc.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\work\TransactionBankAcc\TransactionBankAcc\obj\Release\TransactionBankAcc.exe
+C:\Users\Dell\Desktop\work\TransactionBankAcc\TransactionBankAcc\obj\Release\TransactionBankAcc.pdb
